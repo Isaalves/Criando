@@ -1,0 +1,3 @@
+lista de comandos git
+
+esta é uma lista para organizar bla bla bla
